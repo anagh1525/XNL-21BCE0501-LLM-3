@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # XNL-21BCE0501-LLM-3
 🚀 LLM TASK 3: LLM‑POWERED FRAUD DETECTION & ANOMALY ANALYSIS
 🎯 Goal:
@@ -119,3 +120,6 @@ Deploy models using TorchServe + NVIDIA Triton Inference Server.
 Sub-Steps:
 Use GitHub Actions / Jenkins for automated deployment.
 Implement Blue-Green Deployment for zero downtime.
+=======
+"# XNL-21BCE0501-LLM-3" 
+>>>>>>> c646a05 (first commit)
