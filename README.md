@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-# XNL-21BCE0501-LLM-3
 🚀 LLM TASK 3: LLM‑POWERED FRAUD DETECTION & ANOMALY ANALYSIS
+⏳ Time Limit: 36 Hours
 🎯 Goal:
 Develop a fraud detection system that leverages LLM embeddings and transformer models to analyze transaction descriptions, detect anomalies, and flag potential fraudulent activities. Integrate the solution with a vector database to perform similarity search for rapid anomaly identification.
 
@@ -120,6 +119,3 @@ Deploy models using TorchServe + NVIDIA Triton Inference Server.
 Sub-Steps:
 Use GitHub Actions / Jenkins for automated deployment.
 Implement Blue-Green Deployment for zero downtime.
-=======
-"# XNL-21BCE0501-LLM-3" 
->>>>>>> c646a05 (first commit)

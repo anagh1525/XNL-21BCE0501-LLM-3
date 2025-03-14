@@ -1,0 +1,9 @@
+# Ignore Python virtual environment
+python_project/env/
+*.pyc
+__pycache__/
+
+# Ignore Next.js dependencies
+nextjs_project/node_modules/
+.next/
+.env.local
